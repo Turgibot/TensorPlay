@@ -1,3 +1,9 @@
+'''
+Created by Guy Tordjman (turgibot@gmail.com)
+March 25th 2018
+Please always use your code for the benefit of humanity.
+'''
+
 import tensorflow as tf
 
 
