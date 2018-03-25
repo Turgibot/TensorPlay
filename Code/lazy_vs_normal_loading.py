@@ -1,6 +1,6 @@
 """
 demonstrating the difference between lazy and normal variables loading
-Created by Guy Tordjman (turgibot@gmail.com)
+Adopted by Guy Tordjman (turgibot@gmail.com) from Chip Huyen (chiphuyen@cs.stanford.edu)
 March 22nd 2018
 Please always use your code for the benefit of humanity.
 """
