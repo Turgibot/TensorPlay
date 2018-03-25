@@ -58,3 +58,4 @@ docs/_build/
 target/
 
 Code/graphs
+Code/data/mnist
